@@ -1,0 +1,8 @@
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\ConnWatchDog\bin\Debug\netcoreapp2.1\ConnWatchDog.deps.json
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\ConnWatchDog\bin\Debug\netcoreapp2.1\ConnWatchDog.dll
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\ConnWatchDog\bin\Debug\netcoreapp2.1\ConnWatchDog.pdb
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\ConnWatchDog\obj\Debug\netcoreapp2.1\ConnWatchDog.csproj.CoreCompileInputs.cache
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\ConnWatchDog\obj\Debug\netcoreapp2.1\ConnWatchDog.AssemblyInfoInputs.cache
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\ConnWatchDog\obj\Debug\netcoreapp2.1\ConnWatchDog.AssemblyInfo.cs
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\ConnWatchDog\obj\Debug\netcoreapp2.1\ConnWatchDog.dll
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\ConnWatchDog\obj\Debug\netcoreapp2.1\ConnWatchDog.pdb

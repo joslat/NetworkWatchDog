@@ -1,0 +1,14 @@
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\bin\Debug\netcoreapp2.1\cappNetworkMonitor.deps.json
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\bin\Debug\netcoreapp2.1\cappNetworkMonitor.runtimeconfig.json
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\bin\Debug\netcoreapp2.1\cappNetworkMonitor.runtimeconfig.dev.json
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\bin\Debug\netcoreapp2.1\cappNetworkMonitor.dll
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\bin\Debug\netcoreapp2.1\cappNetworkMonitor.pdb
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\bin\Debug\netcoreapp2.1\ConnWatchDog.dll
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\bin\Debug\netcoreapp2.1\ConnWatchDog.pdb
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\obj\Debug\netcoreapp2.1\cappNetworkMonitor.csprojAssemblyReference.cache
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\obj\Debug\netcoreapp2.1\cappNetworkMonitor.csproj.CoreCompileInputs.cache
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\obj\Debug\netcoreapp2.1\cappNetworkMonitor.AssemblyInfoInputs.cache
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\obj\Debug\netcoreapp2.1\cappNetworkMonitor.AssemblyInfo.cs
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\obj\Debug\netcoreapp2.1\cappNetworkMonitor.csproj.CopyComplete
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\obj\Debug\netcoreapp2.1\cappNetworkMonitor.dll
+G:\JL\Blogging\Watchdog\ConnectivityWatchDog\cappNetworkMonitor\obj\Debug\netcoreapp2.1\cappNetworkMonitor.pdb
